@@ -1,6 +1,6 @@
 # BIT pacman 源（Arch / Manjaro 等）
 
-自托管 pacman 仓库（由 deb 重打包），由 CI 从 [BIT Releases](https://github.com/yxpil/OpenBit/releases) 自动同步。
+自托管 pacman 仓库（由 deb 重打包），由 CI 从 [BIT Releases](https://github.com/yxpil/bit/releases) 自动同步。
 
 ```ini
 [bit]
